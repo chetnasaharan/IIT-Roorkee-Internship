@@ -1,5 +1,6 @@
 DAY 1
 
+1)
 name = input('enter your name :')
 age = input('enter your age :')
 print(f'Hello, {name}! I am surprised to see you are only {age}')
@@ -8,6 +9,8 @@ print('Hello, '+name+"! I am surprised to see you are only "+ age )
 Hello, Bhupesh! I am surprised to see you are only 22
 Hello, Bhupesh ! I am surprised to see you are only 22
 Hello, Bhupesh! I am surprised to see you are only 22
+
+2)
 a = 42
 b = 3.14159
 c = 'mathematics'
@@ -20,6 +23,9 @@ a is : <class 'int'>
 b is : <class 'float'>
 c is : <class 'str'>
 d is : <class 'bool'>
+
+
+3)
 a = input('enter first number')
 b = input('enter second number')
 num1 = float(a)
@@ -38,6 +44,7 @@ division : 0.6666666666666666
 Practice sheet 1
 
 
+1)
 a = input('enter weight in kgs : ')
 b = input('enter height in meters: ')
 wt = float(a)
@@ -52,6 +59,9 @@ else :
     print('result: normal')
 your BMI is 24.163265306122447
 result: normal
+
+
+2)
 print('choose a conversion') 
 print('1.Celsius to Fahrenheit')
 print('2.Fahrenheit to Celsius')
