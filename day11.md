@@ -82,6 +82,9 @@ choose a conversion
 1.Celsius to Fahrenheit
 2.Fahrenheit to Celsius
 37.70 celsius is 99.86 Fahrenheit.
+
+
+3)
 #simple interest code 
 P = float(input('Enter principal amount: '))
 R = float(input('Enter the rate of interest per annum(in %): '))
