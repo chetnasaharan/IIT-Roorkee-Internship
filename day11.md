@@ -8,9 +8,9 @@ print('Hello,',name,"! I am surprised to see you are only", age )
 print('Hello, '+name+"! I am surprised to see you are only "+ age )
 
 
-Hello, Bhupesh! I am surprised to see you are only 22
-Hello, Bhupesh ! I am surprised to see you are only 22
-Hello, Bhupesh! I am surprised to see you are only 22
+Hello, CHETNA! I am surprised to see you are only 22
+Hello, CHETNA! I am surprised to see you are only 22
+Hello, CHETNA! I am surprised to see you are only 22
 
 2)
 a = 42
