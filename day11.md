@@ -6,6 +6,8 @@ age = input('enter your age :')
 print(f'Hello, {name}! I am surprised to see you are only {age}')
 print('Hello,',name,"! I am surprised to see you are only", age )
 print('Hello, '+name+"! I am surprised to see you are only "+ age )
+
+
 Hello, Bhupesh! I am surprised to see you are only 22
 Hello, Bhupesh ! I am surprised to see you are only 22
 Hello, Bhupesh! I am surprised to see you are only 22
@@ -19,6 +21,8 @@ print('a is :', type(a))
 print('b is :', type(b))
 print('c is :', type(c))
 print('d is :', type(d))
+
+
 a is : <class 'int'>
 b is : <class 'float'>
 c is : <class 'str'>
@@ -35,6 +39,8 @@ print('addition : ', num1+num2)
 print(f"subtraction : {num1-num2}")
 print(f"multipication : {num1*num2}")
 print(f"division : {num1/num2}")
+
+
 addition : 10.0
 addition :  10.0
 subtraction : -2.0
@@ -57,6 +63,8 @@ elif bmi < 18.5 :
     print ('result : underweight')
 else :
     print('result: normal')
+
+
 your BMI is 24.163265306122447
 result: normal
 
@@ -78,6 +86,7 @@ else:
      print("Choose a valid conversion")
      
  
+
 choose a conversion
 1.Celsius to Fahrenheit
 2.Fahrenheit to Celsius
@@ -91,4 +100,6 @@ R = float(input('Enter the rate of interest per annum(in %): '))
 T = float(input('Enter the time (in years)'))
 si = (P*R*T)/100
 print(f"The simple interest for given data is : {si}.")
+
+
 The simple interest for given data is : 120.0.
